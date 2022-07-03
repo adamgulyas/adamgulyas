@@ -1,4 +1,4 @@
-# Hello, folks! :waving_hand:
+# Hello, folks! :wave:
 
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
@@ -8,7 +8,9 @@
 
 I'm Adam, a Quantitative Developer/Data Scientist based in Toronto. Currently studying FinTech at University of Toronto, I'm focused on predictive analytics and algorithmic trading with ML, AI, and technical analysis.
 
-<!-- My name is Martin Heinz and I'm a software developer/DevOps engineer. I'm from Slovakia, living in Bratislava and currently working at IBM. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3]. -->
+You can learn more about me on [my website](https://adamgulyas.com).
+
+My name is Martin Heinz and I'm a software developer/DevOps engineer. I'm from Slovakia, living in Bratislava and currently working at IBM. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## :toolbox: Technologies & Tools
 
@@ -16,7 +18,7 @@ I'm Adam, a Quantitative Developer/Data Scientist based in Toronto. Currently st
 ![](https://img.shields.io/badge/OS-MacOS-black?style=flat&logo=apple&logoColor=white&color=039D5D)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=039D5D)
 ![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-bash&logoColor=white&color=039D5D)
-![](https://img.shields.**io**/badge/Prompt-iTerm2-informational?style=flat&logo=iterm2&logoColor=white&color=039D5D)
+![](https://img.shields.io/badge/Prompt-iTerm2-informational?style=flat&logo=iterm2&logoColor=white&color=039D5D)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=039D5D)
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=039D5D)
 ![](https://img.shields.io/badge/npm-informational?style=flat&logo=npm&logoColor=white&color=039D5D)
@@ -43,53 +45,22 @@ I'm Adam, a Quantitative Developer/Data Scientist based in Toronto. Currently st
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=118AED)
 ![](https://img.shields.io/badge/DNS-cPanel-informational?style=flat&logo=cpanel&logoColor=white&color=118AED)
 
-## &#x270d; Trading
+## :necktie: Work Experience
+| Position                    | Company               | Field                           | Time Period          |
+| --------------------------- | --------------------- | ------------------------------- | -------------------- |
+| Technology Director         | G&G                   | Advertising                     | 03/2020 — 02/2022    |
+| Technical Product Manager   | Vicarious Inc.        | Tech Consulting                 | 06/2019 — 03/2020    |
+| Technical Product Manager   | The Young Astronauts  | Creative Digital Agency         | 02/2015 — 06/2019    |
+| Lead Software Engineer      | The Young Astronauts  | Creative Digital Agency         | 04/2014 — 02/2015    |
+| Software Engineer           | Turnstyle Analytics   | Consumer Analytics              | 06/2013 — 04/2014    |
 
-Apart from coding, I'm a budding financial analyst and options trader 🌹.
+## :money_with_wings: Extracurriculars
 
-<!-- ## &#x1f4c8; GitHub Stats
+Apart from engineering and data science, I'm an investor and options trader. My endless curiosity and desire to fit together the pieces of economic systems are what fuel my work.
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
+### :books: I'm currently reading
 
-<a href="https://github.com/MartinHeinz/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> -->
-
-<!-- links to social media icons -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-
-<!-- links to your social media accounts -->
-
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
-
-
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+- **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow** (Aurélien Géron - O'Reilly)
+- **Data Preparation for Machine Learning: Data Cleaning, Feature Selection, and Data Transforms in Python** (Jason Brownlee)
+- **Principles of Professional Speculation** (Victor Sperandeo, T. Sullivan Brown - Wiley)
+- **Trading Options Greeks: How Time, Volatility, and Other Pricing Factors Drive Profits** (Dan Passarelli - Bloomberg)
