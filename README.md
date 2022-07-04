@@ -59,9 +59,15 @@ Diploma, Internet Applications & Web Development\
 B.A. Honors, Philosophy\
 **University of Guelph, Guelph, ON**
 
+## :trophy: Achievements
+
+- One Cannes Lion
+- Two Clio Golds
+- Published in Bloomberg, Wired, TechCrunch, and Billboard
+
 ## :heart: My Passion
 
-Apart from engineering and data science, I'm an investor and options trader. My work is fueled by a deep fascination of economic systems and the desire to fit the pieces together, always in pursuit of a greater understanding.
+Apart from engineering and data science, I'm an investor and options trader. Each day I'm fueled by a deep fascination of economic systems and the desire to fit the pieces together, always in pursuit of a greater understanding.
 
 ### :books: I'm currently reading
 
