@@ -1,6 +1,6 @@
-# Hello, folks! :wave:
-
 ![](images/github-card@2x.png)
+
+# Hello, folks! :wave:
 
 I'm Adam, a Quantitative Developer/Data Scientist based in Toronto. Currently studying FinTech at University of Toronto, I'm focused on predictive analytics and algorithmic trading with ML and AI.
 
