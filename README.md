@@ -1,8 +1,8 @@
-[![](images/github-card@2x.png)](https://adamgulyas.com)
+[![](images/github-card-noborder@2x.png)](https://adamgulyas.com)
 
 # Hello, folks! &nbsp;:wave:
 
-I'm Adam, a Quantitative Developer/Data Scientist based in Toronto. I'm currently studying FinTech at University of Toronto, focusing on predictive analytics and algorithmic trading with Machine Learning, Natural Language Processing, Deep Learning, and Technical Analysis.
+I'm Adam, a Quantitative Developer/Data Scientist based in Toronto. Currently studying FinTech at University of Toronto, focusing on predictive analytics and algorithmic trading with Machine Learning, Natural Language Processing, Deep Learning, and Technical Analysis.
 
 To learn more about me, check out [my website](https://adamgulyas.com) or [LinkedIn](https://linkedin.com/in/adamgulyas).
 
@@ -56,7 +56,7 @@ Certificate, FinTech\
 Diploma, Internet Applications & Web Development\
 **Durham College, Oshawa, ON**
 
-B.A. Honors, Philosophy\
+B.A., Philosophy\
 **University of Guelph, Guelph, ON**
 
 ## Achievements &nbsp;:trophy:
@@ -68,7 +68,7 @@ B.A. Honors, Philosophy\
 
 ## My Passion &nbsp;:heart:
 
-Apart from engineering and data science, I'm an investor, speculator, and options trader. Fueled each day by a deep fascination of economic systems and the desire to fit the pieces together, always in pursuit of a greater understanding.
+Apart from engineering and data science, I'm an investor, speculator, and options trader; fueled each day by a deep fascination of economic systems and the desire to fit the pieces together, and always in pursuit of a greater understanding.
 
 ### Currently Reading &nbsp;:books:
 
