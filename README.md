@@ -61,9 +61,9 @@ B.A. Honors, Philosophy\
 
 ## :trophy: Achievements
 
-- Cannes Lion Bronze, Social Media
 - Clio Gold, Social Media
 - Clio Gold, Music Entertainment
+- Cannes Lion Bronze, Social Media
 - Published in Bloomberg, Wired, TechCrunch, and Billboard
 
 ## :heart: My Passion
