@@ -39,7 +39,7 @@ You can learn more about me on [my website](https://adamgulyas.com) or [LinkedIn
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=118AED)
 ![](https://img.shields.io/badge/DNS-cPanel-informational?style=flat&logo=cpanel&logoColor=white&color=118AED)
 
-## :necktie: Work Experience
+## :necktie: &nbsp;Work Experience
 | Position                    | Company               | Field                           | Time Period          |
 | --------------------------- | --------------------- | ------------------------------- | -------------------- |
 | Technology Director         | G&G                   | Advertising                     | 03/2020 — 02/2022    |
@@ -48,7 +48,7 @@ You can learn more about me on [my website](https://adamgulyas.com) or [LinkedIn
 | Lead Software Engineer      | The Young Astronauts  | Creative Digital Agency         | 04/2014 — 02/2015    |
 | Software Engineer           | Turnstyle Analytics   | Consumer Analytics              | 06/2013 — 04/2014    |
 
-## :mortar_board: Education
+## :mortar_board: &nbsp;Education
 
 Certificate, FinTech\
 **University of Toronto, Toronto, ON**
@@ -59,9 +59,9 @@ Diploma, Internet Applications & Web Development\
 B.A. Honors, Philosophy\
 **University of Guelph, Guelph, ON**
 
-## :money_with_wings: Extracurriculars
+## :heart: My Passion
 
-Apart from engineering and data science, I'm an investor and options trader. My endless curiosity and desire to fit together the pieces of economic systems are what fuel my work.
+Apart from engineering and data science, I'm an investor and options trader. My deep fascination of economic systems and the desire to fit the pieces together are the things that fuel my drive.
 
 ### :books: I'm currently reading
 
