@@ -1,6 +1,6 @@
 [![](images/github-card-noborder@2x.png)](https://adamgulyas.com)
 
-# Hello there! &nbsp;:wave:
+# Hello! &nbsp;:wave:
 
 I'm Adam, a Quantitative Developer/Data Scientist based in Toronto. Currently studying FinTech at University of Toronto, focusing on predictive analytics and algorithmic trading with Machine Learning, Natural Language Processing, Deep Learning, and Technical Analysis.
 
@@ -8,36 +8,36 @@ To learn more about me, check out [my website](https://adamgulyas.com) or [Linke
 
 ## Technologies & Tools &nbsp;:toolbox:
 
-![](https://img.shields.io/badge/MacOS-black?style=flat&logo=apple&logoColor=white&color=039D5D)
-![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white&color=039D5D)
-![](https://img.shields.io/badge/Zsh-informational?style=flat&logo=gnu-bash&logoColor=white&color=039D5D)
-![](https://img.shields.io/badge/iTerm2-informational?style=flat&logo=iterm2&logoColor=white&color=039D5D)
-![](https://img.shields.io/badge/VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=039D5D)
-![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=039D5D)
-![](https://img.shields.io/badge/npm-informational?style=flat&logo=npm&logoColor=white&color=039D5D)
-![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=039D5D)\
-![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/NumPy-informational?style=flat&logo=numpy&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Pandas-informational?style=flat&logo=pandas&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Plotly-informational?style=flat&logo=plotly&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/SciPy-informational?style=flat&logo=scipy&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Scikit_Learn-informational?style=flat&logo=scikitlearn&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Keras-informational?style=flat&logo=keras&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Watson-informational?style=flat&logo=ibmwatson&logoColor=white&color=blueviolet)\
-![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=FC4E8E)
-![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=FC4E8E)
-![](https://img.shields.io/badge/PHP-informational?style=flat&logo=php&logoColor=white&color=FC4E8E)
-![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=FC4E8E)
-![](https://img.shields.io/badge/Django-informational?style=flat&logo=django&logoColor=white&color=FC4E8E)
-![](https://img.shields.io/badge/NodeJS-informational?style=flat&logo=nodedotjs&logoColor=white&color=FC4E8E)
-![](https://img.shields.io/badge/Express-informational?style=flat&logo=express&logoColor=white&color=FC4E8E)
-![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&color=FC4E8E)
-![](https://img.shields.io/badge/SASS-informational?style=flat&logo=sass&logoColor=white&color=FC4E8E)\
-![](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazon&logoColor=white&color=118AED)
-![](https://img.shields.io/badge/Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=118AED)
-![](https://img.shields.io/badge/cPanel-informational?style=flat&logo=cpanel&logoColor=white&color=118AED)
+![MacOS](https://img.shields.io/badge/-MacOS-0D1117?style=flat-square&logo=apple)
+![Linux](https://img.shields.io/badge/-Linux-0D1117?style=flat-square&logo=linux)
+![Zshell](https://img.shields.io/badge/-Bash-0D1117?style=flat-square&logo=gnu-bash)
+![Git](https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git)
+![npm](https://img.shields.io/badge/-npm-0D1117?style=flat-square&logo=npm)
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat-square&logo=docker)
+![iTerm2](https://img.shields.io/badge/-iTerm2-0D1117?style=flat-square&logo=iterm2)
+![VS Code](https://img.shields.io/badge/-VSCode-0D1117?style=flat-square&logo=visualstudiocode)\
+![Python](https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=python)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat-square&logo=postgresql)
+![NumPy](https://img.shields.io/badge/-NumPy-0D1117?style=flat-square&logo=numpy)
+![Pandas](https://img.shields.io/badge/-Pandas-0D1117?style=flat-square&logo=pandas)
+![Plotly](https://img.shields.io/badge/-Plotly-0D1117?style=flat-square&logo=plotly)
+![SciPy](https://img.shields.io/badge/-SciPy-0D1117?style=flat-square&logo=scipy)
+![Scikit Learn](https://img.shields.io/badge/-Scikit_Learn-0D1117?style=flat-square&logo=scikitlearn)
+![Keras](https://img.shields.io/badge/-Keras-0D1117?style=flat-square&logo=keras)
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-0D1117?style=flat-square&logo=tensorflow)
+![Watson](https://img.shields.io/badge/-Watson-0D1117?style=flat-square&logo=ibmwatson)\
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat-square&logo=typescript)
+![PHP](https://img.shields.io/badge/-PHP-0D1117?style=flat-square&logo=php)
+![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=flat-square&logo=mongodb)
+![Django](https://img.shields.io/badge/-Django-0D1117?style=flat-square&logo=django)
+![NodeJS](https://img.shields.io/badge/-NodeJS-0D1117?style=flat-square&logo=nodedotjs)
+![Express](https://img.shields.io/badge/-Express-0D1117?style=flat-square&logo=express)
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat-square&logo=html5)
+![SASS](https://img.shields.io/badge/-SASS-0D1117?style=flat-square&logo=sass)\
+![AWS](https://img.shields.io/badge/-AWS-0D1117?style=flat-square&logo=amazon)
+![Digital Ocean](https://img.shields.io/badge/-Digital_Ocean-0D1117?style=flat-square&logo=digitalocean)
+![cPanel](https://img.shields.io/badge/-cPanel-0D1117?style=flat-square&logo=cpanel)
 
 ## Work Experience &nbsp;:necktie:
 | Position                    | Company               | Field                           | Time Period          |
