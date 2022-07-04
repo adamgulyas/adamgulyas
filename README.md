@@ -1,12 +1,12 @@
 [![](images/github-card@2x.png)](https://adamgulyas.com)
 
-# :wave: Hello, folks!
+# Hello, folks! &nbsp;:wave:
 
 I'm Adam, a Quantitative Developer/Data Scientist based in Toronto. I'm currently studying FinTech at University of Toronto, focusing on predictive analytics and algorithmic trading with Machine Learning, Natural Language Processing, Deep Learning, and Technical Analysis.
 
 To learn more about me, check out [my website](https://adamgulyas.com) or [LinkedIn](https://linkedin.com/in/adamgulyas).
 
-## :toolbox: Technologies & Tools
+## Technologies & Tools &nbsp;:toolbox:
 
 ![](https://img.shields.io/badge/MacOS-black?style=flat&logo=apple&logoColor=white&color=039D5D)
 ![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white&color=039D5D)
@@ -39,7 +39,7 @@ To learn more about me, check out [my website](https://adamgulyas.com) or [Linke
 ![](https://img.shields.io/badge/Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=118AED)
 ![](https://img.shields.io/badge/cPanel-informational?style=flat&logo=cpanel&logoColor=white&color=118AED)
 
-## :necktie: &nbsp;Work Experience
+## Work Experience &nbsp;:necktie:
 | Position                    | Company               | Field                           | Time Period          |
 | --------------------------- | --------------------- | ------------------------------- | -------------------- |
 | Technology Director         | G&G                   | Advertising                     | 03/2020 — 02/2022    |
@@ -48,7 +48,7 @@ To learn more about me, check out [my website](https://adamgulyas.com) or [Linke
 | Lead Software Engineer      | The Young Astronauts  | Creative Digital Agency         | 04/2014 — 02/2015    |
 | Software Engineer           | Turnstyle Analytics   | Consumer Analytics              | 06/2013 — 04/2014    |
 
-## :mortar_board: &nbsp;Education
+## Education &nbsp;:mortar_board:
 
 Certificate, FinTech\
 **University of Toronto, Toronto, ON**
@@ -59,18 +59,18 @@ Diploma, Internet Applications & Web Development\
 B.A. Honors, Philosophy\
 **University of Guelph, Guelph, ON**
 
-## :trophy: Achievements
+## Achievements &nbsp;:trophy:
 
 - Clio Gold, Social Media
 - Clio Gold, Music Entertainment
 - Cannes Lion Bronze, Social Media
 - Published in Bloomberg, Wired, TechCrunch, and Billboard
 
-## :heart: My Passion
+## My Passion &nbsp;:heart:
 
-Apart from engineering and data science, I'm an investor and options trader. Each day I'm fueled by a deep fascination of economic systems and the desire to fit the pieces together, always in pursuit of a greater understanding.
+Apart from engineering and data science, I'm an investor, speculator, and options trader. Fueled each day by a deep fascination of economic systems and the desire to fit the pieces together, always in pursuit of a greater understanding.
 
-### :books: I'm currently reading
+### Currently Reading &nbsp;:books:
 
 - **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow** (Aurélien Géron - O'Reilly)
 - **Data Preparation for Machine Learning: Data Cleaning, Feature Selection, and Data Transforms in Python** (Jason Brownlee)
