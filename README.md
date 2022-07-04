@@ -1,4 +1,4 @@
-![](images/github-card@2x.png)
+[![](images/github-card@2x.png)](https://adamgulyas.com)
 
 # Hello, folks! :wave:
 
