@@ -61,7 +61,7 @@ B.A. Honors, Philosophy\
 
 ## :heart: My Passion
 
-Apart from engineering and data science, I'm an investor and options trader. My deep fascination of economic systems and the desire to fit the pieces together are the things that fuel my drive.
+Apart from engineering and data science, I'm an investor and options trader. My work is fueled by a deep fascination of economic systems and the desire to fit the pieces together, always in pursuit of a greater understanding.
 
 ### :books: I'm currently reading
 
