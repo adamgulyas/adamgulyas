@@ -1,16 +1,10 @@
 # Hello, folks! :wave:
 
-<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
+![](images/github-card@2x.png)
 
-<!-- [![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/) -->
+I'm Adam, a Quantitative Developer/Data Scientist based in Toronto. Currently studying FinTech at University of Toronto, I'm focused on predictive analytics and algorithmic trading with ML and AI.
 
-<!-- # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> -->
-
-I'm Adam, a Quantitative Developer/Data Scientist based in Toronto. Currently studying FinTech at University of Toronto, I'm focused on predictive analytics and algorithmic trading with ML, AI, and technical analysis.
-
-You can learn more about me on [my website](https://adamgulyas.com).
-
-My name is Martin Heinz and I'm a software developer/DevOps engineer. I'm from Slovakia, living in Bratislava and currently working at IBM. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+You can learn more about me on [my website](https://adamgulyas.com) or [LinkedIn](https://linkedin.com/in/adamgulyas).
 
 ## :toolbox: Technologies & Tools
 
@@ -53,6 +47,17 @@ My name is Martin Heinz and I'm a software developer/DevOps engineer. I'm from S
 | Technical Product Manager   | The Young Astronauts  | Creative Digital Agency         | 02/2015 — 06/2019    |
 | Lead Software Engineer      | The Young Astronauts  | Creative Digital Agency         | 04/2014 — 02/2015    |
 | Software Engineer           | Turnstyle Analytics   | Consumer Analytics              | 06/2013 — 04/2014    |
+
+## :mortar_board: Education
+
+Certificate, FinTech\
+**University of Toronto, Toronto, ON**
+
+Diploma, Internet Applications & Web Development\
+**Durham College, Oshawa, ON**
+
+B.A. Honors, Philosophy\
+**University of Guelph, Guelph, ON**
 
 ## :money_with_wings: Extracurriculars
 
