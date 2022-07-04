@@ -1,8 +1,8 @@
-[![](images/github-card-noborder@2x.png)](https://adamgulyas.com)
+[![](images/github-card@2x.png)](https://adamgulyas.com)
 
 # Hello! &nbsp;:wave:
 
-I'm Adam, a Quantitative Developer/Data Scientist based in Toronto. Currently studying FinTech at University of Toronto, focusing on predictive analytics and algorithmic trading with Machine Learning, Natural Language Processing, Deep Learning, and Technical Analysis.
+I'm Adam, a Quantitative Researcher/Data Scientist based in Toronto. Currently studying FinTech at University of Toronto, focusing on predictive analytics and algorithmic trading with Machine Learning, Natural Language Processing, Deep Learning, and Technical Analysis.
 
 To learn more about me, check out [my website](https://adamgulyas.com) or [LinkedIn](https://linkedin.com/in/adamgulyas).
 
@@ -46,7 +46,7 @@ To learn more about me, check out [my website](https://adamgulyas.com) or [Linke
 | Technical Product Manager   | Vicarious Inc.        | Tech Consulting                 | 06/2019 — 03/2020    |
 | Technical Product Manager   | The Young Astronauts  | Creative Digital Agency         | 02/2015 — 06/2019    |
 | Lead Software Engineer      | The Young Astronauts  | Creative Digital Agency         | 04/2014 — 02/2015    |
-| Software Engineer           | Turnstyle Analytics   | Consumer Analytics              | 06/2013 — 04/2014    |
+| Software Engineer           | Yelp                  | Consumer Analytics              | 06/2013 — 04/2014    |
 
 ## Education &nbsp;:mortar_board:
 
@@ -68,7 +68,7 @@ B.A., Philosophy\
 
 ## My Passion &nbsp;:heart:
 
-Apart from engineering and data science, I'm an investor, speculator, and options trader; fueled each day by a deep fascination of economic systems and the desire to fit the pieces together, and always in pursuit of a greater understanding.
+Apart from data science and engineering, I'm an investor, speculator, and options trader; fueled each day by a deep fascination of economic systems and the desire to fit the pieces together, and always in pursuit of a greater understanding.
 
 ### Currently Reading &nbsp;:books:
 
