@@ -1,6 +1,6 @@
 [![](images/github-card@2x.png)](https://adamgulyas.com)
 
-# Hello, folks! :wave:
+# :wave: Hello, folks!
 
 I'm Adam, a Quantitative Developer/Data Scientist based in Toronto. I'm currently studying FinTech at University of Toronto, focusing on predictive analytics and algorithmic trading with Machine Learning, Natural Language Processing, Deep Learning, and Technical Analysis.
 
