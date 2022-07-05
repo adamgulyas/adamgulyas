@@ -42,10 +42,10 @@ To learn more about me, check out [my website](https://adamgulyas.com) or [Linke
 ## Work Experience &nbsp;:necktie:
 | Position                    | Company               | Field                           | Time Period          |
 | --------------------------- | --------------------- | ------------------------------- | -------------------- |
-| Technology Director         | G&G                   | Advertising                     | 03/2020 — 02/2022    |
+| Technology Director         | G&G                   | Digital Marketing               | 03/2020 — 02/2022    |
 | Technical Product Manager   | Vicarious Inc.        | Tech Consulting                 | 06/2019 — 03/2020    |
-| Technical Product Manager   | The Young Astronauts  | Creative Digital Agency         | 02/2015 — 06/2019    |
-| Lead Software Engineer      | The Young Astronauts  | Creative Digital Agency         | 04/2014 — 02/2015    |
+| Technical Product Manager   | The Young Astronauts  | Creative Technology             | 02/2015 — 06/2019    |
+| Lead Software Engineer      | The Young Astronauts  | Creative Technology             | 04/2014 — 02/2015    |
 | Software Engineer           | Yelp                  | Consumer Analytics              | 06/2013 — 04/2014    |
 
 ## Education &nbsp;:mortar_board:
