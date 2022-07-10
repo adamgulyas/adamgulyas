@@ -2,7 +2,7 @@
 
 # Hello! &nbsp;:wave:
 
-I'm Adam, a Quantitative Analyst/Data Scientist based in Toronto. Currently studying FinTech at University of Toronto, focusing on predictive analytics and algorithmic trading with Machine Learning, Natural Language Processing, Deep Learning, and Technical Analysis.
+I'm Adam, a Quantitative Data Analyst based in Toronto. Currently studying FinTech at University of Toronto, focusing on predictive analytics and algorithmic trading with Machine Learning, Natural Language Processing, Deep Learning, and Technical Analysis.
 
 To learn more about me, check out [my website](https://adamgulyas.com) or [LinkedIn](https://linkedin.com/in/adamgulyas).
 
