@@ -66,7 +66,7 @@ B.A., Philosophy\
 - Cannes Lion Bronze, Social Media
 - Published in Bloomberg, Wired, TechCrunch, and Billboard
 
-## My Passion &nbsp;:heart:
+## My Passion &nbsp;:heart_on_fire:
 
 Apart from data science and engineering, I'm an investor, speculator, and options trader; fueled each day by a deep fascination of economic systems and the desire to fit the pieces together, and always in pursuit of a greater understanding.
 
