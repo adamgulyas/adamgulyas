@@ -2,7 +2,7 @@
 
 # Hello! &nbsp;:wave:
 
-I'm Adam, a Quantitative Trader/Data Scientist based in Toronto. Currently studying FinTech at University of Toronto, focusing on predictive analytics and algorithmic trading with Machine Learning, Natural Language Processing, Deep Learning, and Technical Analysis.
+I'm Adam, a Quantitative Analyst/Data Scientist based in Toronto. Currently studying FinTech at University of Toronto, focusing on predictive analytics and algorithmic trading with Machine Learning, Natural Language Processing, Deep Learning, and Technical Analysis.
 
 To learn more about me, check out [my website](https://adamgulyas.com) or [LinkedIn](https://linkedin.com/in/adamgulyas).
 
@@ -43,7 +43,7 @@ To learn more about me, check out [my website](https://adamgulyas.com) or [Linke
 | Position                    | Company               | Field                           | Time Period          |
 | --------------------------- | --------------------- | ------------------------------- | -------------------- |
 | Technology Director         | G&G                   | Digital Marketing               | 03/2020 — 02/2022    |
-| Technical Product Manager   | Vicarious Inc.        | Tech Consulting                 | 06/2019 — 03/2020    |
+| Technical Product Manager   | Vicarious Inc.        | Startup Consulting              | 06/2019 — 03/2020    |
 | Technical Product Manager   | The Young Astronauts  | Creative Technology             | 02/2015 — 06/2019    |
 | Lead Software Engineer      | The Young Astronauts  | Creative Technology             | 04/2014 — 02/2015    |
 | Software Engineer           | Yelp                  | Consumer Analytics              | 06/2013 — 04/2014    |
@@ -66,9 +66,9 @@ B.A., Philosophy\
 - Cannes Lion Bronze, Social Media
 - Published in Bloomberg, Wired, TechCrunch, and Billboard
 
-## My Passion &nbsp;:heart:
+## I :heart_on_fire: Finance
 
-Apart from data science and engineering, I'm an investor, speculator, and options trader; fueled each day by a deep fascination of economic systems and the desire to fit the pieces together, and always in pursuit of a greater understanding.
+Apart from data science and engineering, I'm an investor, speculator, and equities/options trader. The combination of working between these two fields is, personally, extremely fulfulling. At the root of it all is a deep fascination of economic systems and desire to fit the pieces together in pursuit of a greater understanding.
 
 ### Currently Reading &nbsp;:books:
 
