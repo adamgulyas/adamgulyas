@@ -72,7 +72,5 @@ Apart from data science and engineering, I'm an investor, speculator, and equiti
 
 ### Currently Reading &nbsp;:books:
 
-- **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow** (Aurélien Géron - O'Reilly)
-- **Data Preparation for Machine Learning: Data Cleaning, Feature Selection, and Data Transforms in Python** (Jason Brownlee)
 - **Principles of Professional Speculation** (Victor Sperandeo, T. Sullivan Brown - Wiley)
 - **Trading Options Greeks: How Time, Volatility, and Other Pricing Factors Drive Profits** (Dan Passarelli - Bloomberg)
