@@ -18,6 +18,7 @@ To learn more about me, check out [my website](https://adamgulyas.com) or [Linke
 ![VS Code](https://img.shields.io/badge/-VSCode-0D1117?style=flat-square&logo=visualstudiocode)\
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=python)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat-square&logo=postgresql)
+![Anaconda](https://img.shields.io/badge/-Anaconda-0D1117?style=flat-square&logo=anaconda)
 ![NumPy](https://img.shields.io/badge/-NumPy-0D1117?style=flat-square&logo=numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-0D1117?style=flat-square&logo=pandas)
 ![Plotly](https://img.shields.io/badge/-Plotly-0D1117?style=flat-square&logo=plotly)
@@ -25,9 +26,6 @@ To learn more about me, check out [my website](https://adamgulyas.com) or [Linke
 ![Scikit Learn](https://img.shields.io/badge/-Scikit_Learn-0D1117?style=flat-square&logo=scikitlearn)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-0D1117?style=flat-square&logo=tensorflow)
 ![Keras](https://img.shields.io/badge/-Keras-0D1117?style=flat-square&logo=keras)\
-
-<!-- Blockchain badges -->
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat-square&logo=typescript)
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=flat-square&logo=php)
@@ -35,11 +33,15 @@ To learn more about me, check out [my website](https://adamgulyas.com) or [Linke
 ![Django](https://img.shields.io/badge/-Django-0D1117?style=flat-square&logo=django)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-0D1117?style=flat-square&logo=nodedotjs)
 ![Express](https://img.shields.io/badge/-Express-0D1117?style=flat-square&logo=express)
+![React](https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=React)
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat-square&logo=html5)
 ![SASS](https://img.shields.io/badge/-SASS-0D1117?style=flat-square&logo=sass)\
-![AWS](https://img.shields.io/badge/-AWS-0D1117?style=flat-square&logo=amazon)
+![AWS Lambda](https://img.shields.io/badge/-AWS_Lambda-0D1117?style=flat-square&logo=aws-lambda)
+![Amazon S3](https://img.shields.io/badge/-Amazon_S3-0D1117?style=flat-square&logo=amazons3)
 ![Digital Ocean](https://img.shields.io/badge/-Digital_Ocean-0D1117?style=flat-square&logo=digitalocean)
-![cPanel](https://img.shields.io/badge/-cPanel-0D1117?style=flat-square&logo=cpanel)
+![cPanel](https://img.shields.io/badge/-cPanel-0D1117?style=flat-square&logo=cpanel)\
+![Solidity](https://img.shields.io/badge/-Solidity-0D1117?style=flat-square&logo=solidity)
+![Ethereum](https://img.shields.io/badge/-Ethereum-0D1117?style=flat-square&logo=ethereum)
 
 ## Work Experience &nbsp;:necktie:
 | Position                    | Company               | Field                           | Time Period          |
@@ -48,7 +50,7 @@ To learn more about me, check out [my website](https://adamgulyas.com) or [Linke
 | Technical Product Manager   | Vicarious Inc.        | Startup Consulting              | 06/2019 — 03/2020    |
 | Technical Product Manager   | The Young Astronauts  | Creative Technology             | 02/2015 — 06/2019    |
 | Lead Software Engineer      | The Young Astronauts  | Creative Technology             | 04/2014 — 02/2015    |
-| Software Engineer           | Yelp                  | Consumer Analytics              | 06/2013 — 04/2014    |
+| Software Engineer           | Turnstyle Analytics   | Consumer Analytics              | 06/2013 — 04/2014    |
 
 ## Education &nbsp;:mortar_board:
 
@@ -66,11 +68,11 @@ B.A., Philosophy\
 - Clio Gold, Social Media
 - Clio Gold, Music Entertainment
 - Cannes Lion Bronze, Social Media
-- Published in Bloomberg, Wired, TechCrunch, and Billboard
+- Work featured in Bloomberg, Wall Street Journal, TechCrunch, Wired and Billboard
 
 ## I :heart_on_fire: Finance
 
-Apart from data science and engineering, I'm an investor, speculator, and equities/options trader. The combination of working between these two fields is, personally, extremely fulfulling. At the root of it all is a deep fascination of economic systems and desire to fit the pieces together in pursuit of a greater understanding.
+Apart from data science and engineering, I'm an investor, speculator, and equities/options trader. The combination of working between these two fields is, personally, extremely fulfulling. At the root of my passion is a deep fascination with economic systems and geopolitical events, and how they determine the course of our world.
 
 ### Currently Reading &nbsp;:books:
 
