@@ -1,4 +1,4 @@
-[![](images/github-card-slim@2x.png)](https://adamgulyas.com)
+[![](images/github-card@2x.png)](https://adamgulyas.com)
 
 # Hello! &nbsp;:wave:
 
@@ -23,9 +23,11 @@ To learn more about me, check out [my website](https://adamgulyas.com) or [Linke
 ![Plotly](https://img.shields.io/badge/-Plotly-0D1117?style=flat-square&logo=plotly)
 ![SciPy](https://img.shields.io/badge/-SciPy-0D1117?style=flat-square&logo=scipy)
 ![Scikit Learn](https://img.shields.io/badge/-Scikit_Learn-0D1117?style=flat-square&logo=scikitlearn)
-![Keras](https://img.shields.io/badge/-Keras-0D1117?style=flat-square&logo=keras)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-0D1117?style=flat-square&logo=tensorflow)
-![Watson](https://img.shields.io/badge/-Watson-0D1117?style=flat-square&logo=ibmwatson)\
+![Keras](https://img.shields.io/badge/-Keras-0D1117?style=flat-square&logo=keras)\
+
+<!-- Blockchain badges -->
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat-square&logo=typescript)
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=flat-square&logo=php)
