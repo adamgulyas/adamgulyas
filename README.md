@@ -2,7 +2,7 @@
 
 # Hello! &nbsp;:wave:
 
-I'm Adam, a Quantitative Analyst based in Toronto, Canada. Currently studying FinTech at University of Toronto, focusing on predictive analytics and algorithmic trading with machine learning, artificial neural networks, and natural language processing.
+I'm Adam, a Data Analyst based in Toronto, Canada. Currently studying FinTech at University of Toronto, focusing on quantitative analysis and algorithmic trading with machine learning, artificial neural networks, and natural language processing.
 
 To learn more about me, check out [my website](https://adamgulyas.com) or [LinkedIn](https://linkedin.com/in/adamgulyas).
 
@@ -48,8 +48,8 @@ To learn more about me, check out [my website](https://adamgulyas.com) or [Linke
 | --------------------------- | --------------------- | ------------------------------- | -------------------- |
 | Technology Director         | G&G                   | Digital Marketing               | 03/2020 — 02/2022    |
 | Technical Product Manager   | Vicarious Inc.        | Startup Consulting              | 06/2019 — 03/2020    |
-| Technical Product Manager   | The Young Astronauts  | Application Development         | 02/2015 — 06/2019    |
-| Lead Software Engineer      | The Young Astronauts  | Application Development         | 04/2014 — 02/2015    |
+| Technical Product Manager   | The Young Astronauts  | Software Services               | 02/2015 — 06/2019    |
+| Lead Software Engineer      | The Young Astronauts  | Software Services               | 04/2014 — 02/2015    |
 | Software Engineer           | Turnstyle Analytics   | Consumer Analytics              | 06/2013 — 04/2014    |
 
 ## Education &nbsp;:mortar_board:
