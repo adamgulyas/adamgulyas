@@ -15,7 +15,9 @@ To learn more about me, check out [my website](https://adamgulyas.com) or [Linke
 ![npm](https://img.shields.io/badge/-npm-0D1117?style=flat-square&logo=npm)
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat-square&logo=docker)
 ![iTerm2](https://img.shields.io/badge/-iTerm2-0D1117?style=flat-square&logo=iterm2)
-![VS Code](https://img.shields.io/badge/-VSCode-0D1117?style=flat-square&logo=visualstudiocode)\
+![VS Code](https://img.shields.io/badge/-VSCode-0D1117?style=flat-square&logo=visualstudiocode)
+![Sketch](https://img.shields.io/badge/-Sketch-0D1117?style=flat-square&logo=sketch)
+![Figma](https://img.shields.io/badge/-Figma-0D1117?style=flat-square&logo=figma)\
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=python)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat-square&logo=postgresql)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-0D1117?style=flat-square&logo=anaconda)
@@ -25,7 +27,8 @@ To learn more about me, check out [my website](https://adamgulyas.com) or [Linke
 ![SciPy](https://img.shields.io/badge/-SciPy-0D1117?style=flat-square&logo=scipy)
 ![Scikit Learn](https://img.shields.io/badge/-Scikit_Learn-0D1117?style=flat-square&logo=scikitlearn)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-0D1117?style=flat-square&logo=tensorflow)
-![Keras](https://img.shields.io/badge/-Keras-0D1117?style=flat-square&logo=keras)\
+![Keras](https://img.shields.io/badge/-Keras-0D1117?style=flat-square&logo=keras)
+![D3.js](https://img.shields.io/badge/-D3.js-0D1117?style=flat-square&logo=d3dotjs)\
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat-square&logo=typescript)
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=flat-square&logo=php)
