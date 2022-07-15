@@ -35,8 +35,11 @@ To learn more about me, check out [my website](https://adamgulyas.com) or [Linke
 ![Express](https://img.shields.io/badge/-Express-0D1117?style=flat-square&logo=express)
 ![React](https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=React)
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat-square&logo=html5)
-![SASS](https://img.shields.io/badge/-SASS-0D1117?style=flat-square&logo=sass)\
+![SASS](https://img.shields.io/badge/-SASS-0D1117?style=flat-square&logo=sass)
+![Gulp](https://img.shields.io/badge/-Gulp-0D1117?style=flat-square&logo=gulp)
+![WebPack](https://img.shields.io/badge/-WebPack-0D1117?style=flat-square&logo=webpack)\
 ![AWS Lambda](https://img.shields.io/badge/-AWS_Lambda-0D1117?style=flat-square&logo=aws-lambda)
+![Amazon EC2](https://img.shields.io/badge/-Amazon_EC2-0D1117?style=flat-square&logo=amazonec2)
 ![Amazon S3](https://img.shields.io/badge/-Amazon_S3-0D1117?style=flat-square&logo=amazons3)
 ![Digital Ocean](https://img.shields.io/badge/-Digital_Ocean-0D1117?style=flat-square&logo=digitalocean)
 ![cPanel](https://img.shields.io/badge/-cPanel-0D1117?style=flat-square&logo=cpanel)\
@@ -44,6 +47,7 @@ To learn more about me, check out [my website](https://adamgulyas.com) or [Linke
 ![Ethereum](https://img.shields.io/badge/-Ethereum-0D1117?style=flat-square&logo=ethereum)
 
 ## Work Experience &nbsp;:necktie:
+
 | Position                    | Company               | Field                           | Time Period          |
 | --------------------------- | --------------------- | ------------------------------- | -------------------- |
 | Technology Director         | G&G                   | Digital Marketing               | 03/2020 — 02/2022    |
