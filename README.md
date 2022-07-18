@@ -39,7 +39,6 @@ To learn more about me, check out [my website](https://adamgulyas.com) or [Linke
 ![React](https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=React)
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat-square&logo=html5)
 ![SASS](https://img.shields.io/badge/-SASS-0D1117?style=flat-square&logo=sass)
-![Gulp](https://img.shields.io/badge/-Gulp-0D1117?style=flat-square&logo=gulp)
 ![WebPack](https://img.shields.io/badge/-WebPack-0D1117?style=flat-square&logo=webpack)\
 ![AWS Lambda](https://img.shields.io/badge/-AWS_Lambda-0D1117?style=flat-square&logo=aws-lambda)
 ![Amazon EC2](https://img.shields.io/badge/-Amazon_EC2-0D1117?style=flat-square&logo=amazonec2)
