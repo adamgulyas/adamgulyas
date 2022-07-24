@@ -78,7 +78,7 @@ B.A., Philosophy\
 
 ## I :heart_on_fire: Finance
 
-Apart from data science and engineering, I'm an investor, speculator, and equities/options trader. The combination of working between these two fields is, personally, extremely fulfulling. At the root of my passion is a deep fascination with economic systems and geopolitical events, and how they determine the course of our world.
+Apart from data science and engineering, I'm an investor, speculator, and equities/options trader. The combination of working between these two fields is extremely fulfulling. At the root of my passion is a deep fascination with economic systems and geopolitical events, and how they determine the course of our world.
 
 ### Currently Reading &nbsp;:books:
 
