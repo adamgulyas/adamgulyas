@@ -10,7 +10,7 @@ To learn more about me, check out [my website](https://adamgulyas.com) or [Linke
 
 ![MacOS](https://img.shields.io/badge/-MacOS-0D1117?style=flat-square&logo=apple)
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=flat-square&logo=linux)
-![Zshell](https://img.shields.io/badge/-Bash-0D1117?style=flat-square&logo=gnu-bash)
+![Zshell](https://img.shields.io/badge/-Zsh-0D1117?style=flat-square&logo=gnu-bash)
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git)
 ![npm](https://img.shields.io/badge/-npm-0D1117?style=flat-square&logo=npm)
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat-square&logo=docker)
