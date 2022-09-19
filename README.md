@@ -50,6 +50,7 @@ I'm Adam, a Senior Software Engineer at Morningstar in Toronto. To learn more ab
 
 | Position                    | Company               | Field                           | Time Period          |
 | --------------------------- | --------------------- | ------------------------------- | -------------------- |
+| Senior Software Engineer    | G&G                   | Digital Marketing               | 09/2022 —            |
 | Technology Director         | G&G                   | Digital Marketing               | 03/2020 — 02/2022    |
 | Technical Product Manager   | Vicarious Inc.        | Startup Consulting              | 06/2019 — 03/2020    |
 | Technical Product Manager   | The Young Astronauts  | Software Services               | 02/2015 — 06/2019    |
