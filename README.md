@@ -2,9 +2,7 @@
 
 # Hello! &nbsp;:wave:
 
-I'm Adam, a Data Analyst and Software Engineer based in Toronto, Canada. Currently studying FinTech at University of Toronto, focusing on quantitative analysis and algorithmic trading with machine learning, artificial neural networks, and natural language processing.
-
-To learn more about me, check out [my website](https://adamgulyas.com) or [LinkedIn](https://linkedin.com/in/adamgulyas).
+I'm Adam, a Senior Software Engineer at Morningstar in Toronto, Canada. To learn more about me, check out [my website](https://adamgulyas.com) or [LinkedIn](https://linkedin.com/in/adamgulyas).
 
 ## Technologies & Tools &nbsp;:toolbox:
 
