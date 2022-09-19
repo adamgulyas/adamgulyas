@@ -50,7 +50,7 @@ I'm Adam, a Senior Software Engineer at Morningstar in Toronto. To learn more ab
 
 | Position                    | Company               | Field                           | Time Period          |
 | --------------------------- | --------------------- | ------------------------------- | -------------------- |
-| Senior Software Engineer    | G&G                   | Digital Marketing               | 09/2022 —            |
+| Senior Software Engineer    | Morningstar           | Investment Research             | 09/2022 — Present    |
 | Technology Director         | G&G                   | Digital Marketing               | 03/2020 — 02/2022    |
 | Technical Product Manager   | Vicarious Inc.        | Startup Consulting              | 06/2019 — 03/2020    |
 | Technical Product Manager   | The Young Astronauts  | Software Services               | 02/2015 — 06/2019    |
@@ -77,7 +77,7 @@ B.A., Philosophy\
 
 ## I :heart_on_fire: Finance
 
-Apart from data science and engineering, I'm an investor, speculator, and equities/options trader. The combination of working between these fields is extremely fulfulling. It's all born out of a deep fascination with economic systems and geopolitical events, and how they determine the course of our world.
+Apart from engineering I'm an investor, speculator, and equities trader. The combination of working between these fields is very fulfulling. It's all born out of a deep fascination with economic systems and geopolitical events and how they shape the world.
 
 ### Currently Reading &nbsp;:books:
 
