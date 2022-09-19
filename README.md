@@ -2,7 +2,7 @@
 
 # Hello! &nbsp;:wave:
 
-I'm Adam, a Senior Software Engineer at Morningstar in Toronto. To learn more about me, check out [my website](https://adamgulyas.com) or [LinkedIn](https://linkedin.com/in/adamgulyas).
+I'm Adam, a Software Engineer at Morningstar in Toronto. To learn more about me, check out [my website](https://adamgulyas.com) or [LinkedIn](https://linkedin.com/in/adamgulyas).
 
 ## Technologies & Tools &nbsp;:toolbox:
 
