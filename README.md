@@ -1,10 +1,10 @@
 <!-- [![](images/github-card@2x.png)](https://adamgulyas.com) -->
 
-# Hello! &nbsp;:wave:
+# Hello! &nbsp;👋
 
 I'm Adam, a Software Engineer at Morningstar in Toronto. To learn more about me, check out [my website](https://adamgulyas.com) or [LinkedIn](https://linkedin.com/in/adamgulyas).
 
-## Technologies & Tools &nbsp;:toolbox:
+## Technologies & Tools &nbsp;🧰
 
 ![MacOS](https://img.shields.io/badge/-MacOS-0D1117?style=flat-square&logo=apple)
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=flat-square&logo=linux)
@@ -46,7 +46,7 @@ I'm Adam, a Software Engineer at Morningstar in Toronto. To learn more about me,
 ![Solidity](https://img.shields.io/badge/-Solidity-0D1117?style=flat-square&logo=solidity)
 ![Ethereum](https://img.shields.io/badge/-Ethereum-0D1117?style=flat-square&logo=ethereum)
 
-## Work Experience &nbsp;:necktie:
+## Work Experience &nbsp;👔
 
 | Position                    | Company               | Field                           | Time Period          |
 | --------------------------- | --------------------- | ------------------------------- | -------------------- |
@@ -57,7 +57,7 @@ I'm Adam, a Software Engineer at Morningstar in Toronto. To learn more about me,
 | Lead Software Engineer      | The Young Astronauts  | Software Services               | 04/2014 — 02/2015    |
 | Software Engineer           | Turnstyle Analytics   | Consumer Analytics              | 06/2013 — 04/2014    |
 
-## Education &nbsp;:mortar_board:
+## Education &nbsp;🎓
 
 Certificate, FinTech\
 **University of Toronto, Toronto, ON**
@@ -68,14 +68,14 @@ Diploma, Internet Applications & Web Development\
 B.A., Philosophy\
 **University of Guelph, Guelph, ON**
 
-## Achievements &nbsp;:trophy:
+## Achievements &nbsp;🏆
 
 - Clio Gold, Social Media
 - Clio Gold, Music Entertainment
 - Cannes Lion Bronze, Social Media
 - Work featured in Bloomberg, Wall Street Journal, TechCrunch, Wired and Billboard
 
-## I :heart_on_fire: Finance
+## I ❤️‍🔥 Finance
 
 Apart from engineering I'm an investor, speculator, and equities trader. The combination of working between these fields is very fulfulling. It's all born out of a deep fascination with economic systems and geopolitical events and how they shape the world.
 
