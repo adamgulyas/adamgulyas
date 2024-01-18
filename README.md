@@ -2,7 +2,7 @@
 
 # Hello! &nbsp;👋
 
-I'm Adam, a Software Engineer at Morningstar in Toronto. To learn more about me, check out [my website](https://adamgulyas.com) or [LinkedIn](https://linkedin.com/in/adamgulyas).
+I'm Adam, a Software Engineer at Morningstar in Toronto. Check out [my website](https://adamgulyas.com) or [LinkedIn](https://linkedin.com/in/adamgulyas) to learn more.
 
 ## Technologies & Tools &nbsp;🧰
 
@@ -74,12 +74,3 @@ B.A., Philosophy\
 - Clio Gold, Music Entertainment
 - Cannes Lion Bronze, Social Media
 - Work featured in Bloomberg, Wall Street Journal, TechCrunch, Wired and Billboard
-
-## I ❤️‍🔥 Finance
-
-Apart from engineering I'm an investor, speculator, and equities trader. The combination of working between these fields is very fulfulling. It's all born out of a deep fascination with economic systems and geopolitical events and how they shape the world.
-
-### Currently Reading &nbsp;:books:
-
-- **Principles of Professional Speculation** (Victor Sperandeo, T. Sullivan Brown - Wiley)
-- **Trading Options Greeks: How Time, Volatility, and Other Pricing Factors Drive Profits** (Dan Passarelli - Bloomberg)
