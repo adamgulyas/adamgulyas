@@ -25,15 +25,11 @@ I'm Adam, a Software Engineer at Morningstar in Toronto. Check out [my website](
 ![SciPy](https://img.shields.io/badge/-SciPy-0D1117?style=flat-square&logo=scipy)
 ![Scikit Learn](https://img.shields.io/badge/-Scikit_Learn-0D1117?style=flat-square&logo=scikitlearn)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-0D1117?style=flat-square&logo=tensorflow)
-![Keras](https://img.shields.io/badge/-Keras-0D1117?style=flat-square&logo=keras)
-![D3.js](https://img.shields.io/badge/-D3.js-0D1117?style=flat-square&logo=d3dotjs)\
+![Keras](https://img.shields.io/badge/-Keras-0D1117?style=flat-square&logo=keras)\
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat-square&logo=typescript)
-![PHP](https://img.shields.io/badge/-PHP-0D1117?style=flat-square&logo=php)
-![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=flat-square&logo=mongodb)
 ![Django](https://img.shields.io/badge/-Django-0D1117?style=flat-square&logo=django)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-0D1117?style=flat-square&logo=nodedotjs)
-![Express](https://img.shields.io/badge/-Express-0D1117?style=flat-square&logo=express)
 ![React](https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=React)
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat-square&logo=html5)
 ![SASS](https://img.shields.io/badge/-SASS-0D1117?style=flat-square&logo=sass)
