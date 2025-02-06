@@ -37,16 +37,13 @@ I'm Adam, a Software Engineer at Morningstar in Toronto. Check out [my website](
 ![AWS Lambda](https://img.shields.io/badge/-AWS_Lambda-0D1117?style=flat-square&logo=aws-lambda)
 ![Amazon EC2](https://img.shields.io/badge/-Amazon_EC2-0D1117?style=flat-square&logo=amazonec2)
 ![Amazon S3](https://img.shields.io/badge/-Amazon_S3-0D1117?style=flat-square&logo=amazons3)
-![Digital Ocean](https://img.shields.io/badge/-Digital_Ocean-0D1117?style=flat-square&logo=digitalocean)
-![cPanel](https://img.shields.io/badge/-cPanel-0D1117?style=flat-square&logo=cpanel)\
-![Solidity](https://img.shields.io/badge/-Solidity-0D1117?style=flat-square&logo=solidity)
-![Ethereum](https://img.shields.io/badge/-Ethereum-0D1117?style=flat-square&logo=ethereum)
 
 ## Work Experience &nbsp;👔
 
 | Position                    | Company               | Field                           | Time Period          |
 | --------------------------- | --------------------- | ------------------------------- | -------------------- |
-| Senior Software Engineer    | Morningstar           | Investment Research             | 09/2022 — Present    |
+| Lead Software Engineer      | Morningstar           | Investment Research             | 01/2025 — Present    |
+| Senior Software Engineer    | Morningstar           | Investment Research             | 09/2022 — 01/2025    |
 | Technology Director         | G&G                   | Digital Marketing               | 03/2020 — 02/2022    |
 | Technical Product Manager   | Vicarious Inc.        | Tech Consulting                 | 06/2019 — 03/2020    |
 | Technical Product Manager   | The Young Astronauts  | Software Services               | 02/2015 — 06/2019    |
